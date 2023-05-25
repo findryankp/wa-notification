@@ -25,6 +25,21 @@ sudo apt-get install chromium-browser
 sudo node main.js
 ```
 
+* Scan Barcode with your whatapp app
+<div align="center">
+  <a href="images/2.png">
+    <img src="images/2.png" alt="Logo" width="40%">
+  </a>
+</div>
+
+* Try with your postman
+<div align="center">
+  <a href="images/1.png">
+    <img src="images/1.png" alt="Logo" width="40%">
+  </a>
+</div>
+
+
 ## 😎 Development by
 [![Findryankp](https://img.shields.io/badge/Findryankp-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Findryankp)
 [![findryankp](https://img.shields.io/badge/findryankp-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
