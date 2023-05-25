@@ -35,7 +35,7 @@ sudo node main.js
 * Try with your postman
 <div align="center">
   <a href="images/1.png">
-    <img src="images/1.png" alt="Logo" width="40%">
+    <img src="images/1.png" alt="Logo" width="60%">
   </a>
 </div>
 
