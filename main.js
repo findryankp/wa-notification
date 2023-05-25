@@ -30,7 +30,7 @@ function main(client) {
 
 //EXPRESS
 app.use(express.json());
-app.post('/', (req, res) => {
+app.post('/wa', (req, res) => {
   const { number, message } = req.body;
 
   if (number == '' || message == '') {
