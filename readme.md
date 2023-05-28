@@ -5,7 +5,7 @@ Sending automated WhatsApp notifications using NodeJs (Venom Bot).
 
 ## 🚀 Clone Repo
 ```shell
-git clone https://github.com/Findryankp/notification.git
+git clone https://github.com/Findryankp/wa-notification.git
 ```
 
 ## 👨🏽‍💻 Step By Step
